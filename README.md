@@ -1,3 +1,4 @@
+<img src="https://github.com/ankita-1007/CodeFusion-Code-Editor-Clone/assets/100415671/b16b650d-4e12-4ca3-a7d4-16bbda3dff48" align=right height=230px>
 <h1>CodeFusion : Code-Editor </h1>
 <h2>1. Description </h2>
 CodeFusion is a code-editor clone which compiles code written in <b>HTML, CSS and JS.</b> It enables user to view the output simultaneously upon changes 
