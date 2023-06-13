@@ -20,7 +20,7 @@ Simply, download the code and install all the requirements. Then all you have to
 in the vscode terminal
 
 <h2> 4. Screenshot of the interface</h2>
-<img src="https://github.com/ankita-1007/CodeFusion-Code-Editor-Clone/assets/100415671/a05b8ac1-30c7-4506-ad6a-2ff4859736a0" width=900px>
+<img src="https://github.com/ankita-1007/CodeFusion-Code-Editor-Clone/assets/100415671/08f949d8-3665-459b-972e-8f3691d1e3e1" width=900px>
 
 
 
